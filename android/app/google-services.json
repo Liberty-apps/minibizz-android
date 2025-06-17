@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645556858596",
+    "project_id": "minibizz-12974",
+    "storage_bucket": "minibizz-12974.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645556858596:android:803b8d3c5c1f67827846f1",
+        "android_client_info": {
+          "package_name": "com.minibizz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645556858596-egvsk6e2aj9di5bug7p9uc68ri67rd9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVJGOMe7oN206-_cOVMBsX5qs5We7b-1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645556858596-egvsk6e2aj9di5bug7p9uc68ri67rd9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
