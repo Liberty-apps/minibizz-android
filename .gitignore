@@ -1,25 +1,39 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# ⚙️ Node / Ionic / Capacitor
+node_modules/
+www/
+dist/
 .env
+*.log
+package-lock.json
+.vscode/
+.idea/
+
+# 🔥 Firebase
+google-services.json
+firebase-debug.log
+
+# 📱 Android build
+android/.gradle/
+android/app/build/
+android/build/
+*.apk
+*.ap_
+*.keystore
+
+# macOS/Linux/Windows
+.DS_Store
+Thumbs.db
+
+# Capacitor / Cordova
+plugins/
+capacitor.config.json
+capacitor.config.ts
+
+# Test
+coverage/
+test-results/
+
+# ⚠️ Evite les fichiers perso
+*.local
+.env.*
